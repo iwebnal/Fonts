@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'circe-regular';
+    src: url('../fonts/circe-regular/circe-regular.eot');
+    src: local('☺'),
+    url('../fonts/circe-regular/circe-regular.woff') format('woff'),
+    url('../fonts/circe-regular/circe-regular.ttf') format('truetype'),
+    url('../fonts/circe-regular/circe-regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circe-bold';
+    src: url('../fonts/circe-bold/circe-bold.eot');
+    src: local('☺'),
+    url('../fonts/circe-bold/circe-bold.woff') format('woff'),
+    url('../fonts/circe-bold/circe-bold.ttf') format('truetype'),
+    url('../fonts/circe-bold/circe-bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circe-light';
+    src: url('../fonts/circe-light/circe-light.eot');
+    src: local('☺'),
+    url('../fonts/circe-light/circe-light.woff') format('woff'),
+    url('../fonts/circe-light/circe-light.ttf') format('truetype'),
+    url('../fonts/circe-light/circe-light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'circe-extra-light';
+    src: url('../fonts/circe-extra-light/circe-extra-light.eot');
+    src: local('☺'),
+    url('../fonts/circe-extra-light/circe-extra-light.woff') format('woff'),
+    url('../fonts/circe-extra-light/circe-extra-light.ttf') format('truetype'),
+    url('../fonts/circe-extra-light/circe-extra-light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
